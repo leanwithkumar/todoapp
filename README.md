@@ -1,4 +1,5 @@
-🚀 MERN Stack ToDo App
+#🚀 MERN Stack ToDo App
+
 A full-stack ToDo application built with the MERN stack — MongoDB, Express.js, React, and Node.js. This app provides a seamless experience for managing daily tasks, featuring user authentication, real-time notifications, and robust form validation.
 
 🧩 Features
